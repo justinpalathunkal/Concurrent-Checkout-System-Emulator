@@ -16,3 +16,6 @@ There are various ways to setup SDL2 locally but my approach involved these step
 ## Demo
 
 Take a look at the video within the repository to understand how the emulation plays 
+
+https://github.com/user-attachments/assets/fe071b84-0a47-4830-8ce3-7ca06a3454af
+
