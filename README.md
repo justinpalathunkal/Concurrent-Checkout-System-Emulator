@@ -13,3 +13,9 @@ There are various ways to setup SDL2 locally but my approach involved these step
 3. Run gcc src.c -o test.exe `pkg-config --cflags --libs sdl2 SDL2_ttf SDL2_image`
 4. The emulator window should pop up and be ready to be run
 
+## Demo
+
+Take a look at the video within the repository to understand how the emulation plays 
+
+https://github.com/user-attachments/assets/fe071b84-0a47-4830-8ce3-7ca06a3454af
+
